@@ -9,9 +9,10 @@
 <p align="left"> <a href="https://twitter.com/sanyamx" target="blank"><img src="https://img.shields.io/twitter/follow/sanyamx?logo=twitter&style=for-the-badge" alt="sanyamx" /></a> </p>
 
 <p align="left">
-- 👾 Knows the craft o developing fullstack website
 
 - 🌱 I’m currently learning **DevOps**
+
+- 👾 Knows the craft o developing fullstack website
 
 - 📫 How to reach me **sanyamkaim@gmail.com**
 
