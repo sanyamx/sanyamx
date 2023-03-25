@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 👾 Knows the craft o developing fullstack website
+- 👾 Knows the craft of developing fullstack website
 
 - 📫 How to reach me **sanyamkaim@gmail.com**
 
