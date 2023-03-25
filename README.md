@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **sanyamkaim@gmail.com**
 
-- 🐺 Fun fact **I love binging on anime**
+- 🐺 Fun fact: **I love binging on anime**
   
 </p>
   
