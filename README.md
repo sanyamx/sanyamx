@@ -1,3 +1,7 @@
+<p>
+<img src="https://github.com/sanyamx/sanyamx/blob/main/images/image1.gif" align="center"> 
+</p>
+
 ### Hi there 👋
 
 <!--
